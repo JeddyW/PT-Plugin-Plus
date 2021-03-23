@@ -55,3 +55,4 @@ PT 助手 Plus，是一款浏览器插件（Web Extensions），一个可以提�
 
 - 如何安装和使用，请参考 [Wiki](https://github.com/ronggang/PT-Plugin-Plus/wiki) 的详细说明；
 - 常见问题可 [点这里](https://github.com/ronggang/PT-Plugin-Plus/wiki/frequently-asked-questions) 找到答案；
+-
